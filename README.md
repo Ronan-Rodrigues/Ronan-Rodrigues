@@ -1,9 +1,12 @@
 &lt;!-- Banner superior --&gt;
 &lt;p align="center"&gt;
-  &lt;img src="assets/banner.png" alt="Ronan Rodrigues - Automação → Desenvolvimento" width="100%"&gt;
+  &lt;img src="https://raw.githubusercontent.com/Ronan-Rodrigues/Ronan-Rodrigues/main/assets/banner.png" 
+       alt="Ronan Rodrigues - Automação → Desenvolvimento" 
+       width="100%"&gt;
 &lt;/p&gt;
 
 &lt;h1 align="center"&gt;Ronan T. Rodrigues&lt;/h1&gt;
+
 &lt;p align="center"&gt;
   &lt;b&gt;Técnico em Automação Industrial → Análise e Desenvolvimento de Sistemas&lt;/b&gt;&lt;br&gt;
   11+ anos em sistemas críticos | IoT | Embarcados | Automação Inteligente
@@ -34,6 +37,7 @@ Não sou um desenvolvedor júnior tradicional. Sou profissional técnico com **1
 ## 🛠️ Stack Técnico
 
 ### Produção (Projetos no GitHub)
+
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Embarcados & IoT** | ESP32, Arduino, Raspberry Pi, MicroPython, MQTT, HTTP |
@@ -43,6 +47,7 @@ Não sou um desenvolvedor júnior tradicional. Sou profissional técnico com **1
 | **Mobile** | React Native (em desenvolvimento) |
 
 ### Estudos & Laboratórios
+
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Orquestração** | Kubernetes (minikube, teoria), Docker Swarm |
@@ -51,6 +56,7 @@ Não sou um desenvolvedor júnior tradicional. Sou profissional técnico com **1
 | **Mensageria** | RabbitMQ, Apache Kafka (conceitos) |
 
 ### Legado Industrial (Diferencial)
+
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Automação** | PLCs Siemens S7, Altus, Rockwell (9 anos) |
@@ -69,10 +75,10 @@ Não sou um desenvolvedor júnior tradicional. Sou profissional técnico com **1
 Sistema de supervisão web moderno, substituindo supervisórios desktop (Elipse E3) por dashboard responsivo em tempo real.
 
 **Funcionalidades:**
-- Coleta de dados de sensores via ESP32
-- Backend containerizado com Docker
-- Alertas multi-canal (Telegram, WhatsApp, Email)
-- Deploy em VPS cloud
+- ✅ Coleta de dados de sensores via ESP32
+- ✅ Backend containerizado com Docker
+- ✅ Alertas multi-canal (Telegram, WhatsApp, Email)
+- ✅ Deploy em VPS cloud
 
 [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronan-Rodrigues/supervisorio-iot-industrial)
 
@@ -85,10 +91,10 @@ Sistema de supervisão web moderno, substituindo supervisórios desktop (Elipse 
 Assistente virtual que interpreta comandos em linguagem natural e aciona dispositivos físicos via ESP32.
 
 **Funcionalidades:**
-- NLP com GPT-3.5 para interpretar comandos
-- Cache de contexto com Redis
-- Feedback visual no hardware (LEDs)
-- Histórico de comandos em PostgreSQL
+- ✅ NLP com GPT-3.5 para interpretar comandos
+- ✅ Cache de contexto com Redis
+- ✅ Feedback visual no hardware (LEDs)
+- ✅ Histórico de comandos em PostgreSQL
 
 [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronan-Rodrigues/chatbot-plc-controller)
 
@@ -101,10 +107,10 @@ Assistente virtual que interpreta comandos em linguagem natural e aciona disposi
 Workflows de automação de processos industriais, replicando em software moderno o que fazia com macros VBA Excel.
 
 **Funcionalidades:**
-- Alerta de temperatura crítica com escalação
-- Relatório diário automatizado
-- Ordem de manutenção preventiva integrada
-- Backup noturno para AWS S3
+- ✅ Alerta de temperatura crítica com escalação
+- ✅ Relatório diário automatizado
+- ✅ Ordem de manutenção preventiva integrada
+- ✅ Backup noturno para AWS S3
 
 [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronan-Rodrigues/etl-industrial-n8n)
 
