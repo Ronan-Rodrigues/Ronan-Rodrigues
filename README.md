@@ -1,28 +1,18 @@
-&lt;!-- Banner superior --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://raw.githubusercontent.com/Ronan-Rodrigues/Ronan-Rodrigues/main/assets/banner.png" 
-       alt="Ronan Rodrigues - Automação → Desenvolvimento" 
-       width="100%"&gt;
-&lt;/p&gt;
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Ronan+T.+Rodrigues;Automação+→+Dev;IoT+%7C+Embarcados" alt="Typing SVG" />
+</h1>
 
-&lt;h1 align="center"&gt;Ronan T. Rodrigues&lt;/h1&gt;
-
-&lt;p align="center"&gt;
-  &lt;b&gt;Técnico em Automação Industrial → Análise e Desenvolvimento de Sistemas&lt;/b&gt;&lt;br&gt;
-  11+ anos em sistemas críticos | IoT | Embarcados | Automação Inteligente
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/ronanrodriguesmg"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:ronansegpl22@hotmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"&gt;
-  &lt;/a&gt;
-  &lt;a href="https://wa.me/5531995964202"&gt;
-    &lt;img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://linkedin.com/in/ronanrodriguesmg">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ronansegpl22@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5531995964202">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
@@ -118,10 +108,11 @@ Workflows de automação de processos industriais, replicando em software modern
 
 ## 📊 Estatísticas GitHub
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Ronan-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" height="180"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-Rodrigues&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180"&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronan-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" height="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-Rodrigues&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180">
+</p>
 
 ---
 
@@ -129,7 +120,7 @@ Workflows de automação de processos industriais, replicando em software modern
 
 | Período | Empresa | Função | Destaque |
 |---------|---------|--------|----------|
-| 2025 – Atual | Aeroporto BH-Confins | Técnico Eletrotécnica | Sistemas críticos 24/7, zero downtime |
+| 2025 – 2025 | Aeroporto BH-Confins | Técnico Eletrotécnica | Sistemas críticos 24/7, zero downtime |
 | 2023 – 2024 | Globo Pharma | Técnico Industrial | Redução 15% em paradas não planejadas |
 | 2013 – 2022 | LFDA/Ministério da Agricultura | Técnico Mecatrônica | 9 anos sem falhas críticas em NB4 |
 
