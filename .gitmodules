@@ -1,0 +1,9 @@
+[submodule "projetos/supervisorio-iot"]
+	path = projetos/supervisorio-iot
+	url = https://github.com/Ronan-Rodrigues/supervisorio-iot-industrial.git
+[submodule "projetos/chatbot-plc"]
+	path = projetos/chatbot-plc
+	url = https://github.com/Ronan-Rodrigues/chatbot-plc-controller.git
+[submodule "projetos/etl-n8n"]
+	path = projetos/etl-n8n
+	url = https://github.com/Ronan-Rodrigues/etl-industrial-n8n.git
