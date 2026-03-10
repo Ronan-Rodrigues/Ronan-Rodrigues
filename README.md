@@ -19,7 +19,7 @@
   &lt;a href="mailto:ronansegpl22@hotmail.com"&gt;
     &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"&gt;
   &lt;/a&gt;
-  &lt;a href="https://wa.me/5531999999999"&gt;
+  &lt;a href="https://wa.me/5531995964202"&gt;
     &lt;img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"&gt;
   &lt;/a&gt;
 &lt;/p&gt;
@@ -149,7 +149,7 @@ Workflows de automação de processos industriais, replicando em software modern
 
 - 📧 **Email:** ronansegpl22@hotmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/ronanrodriguesmg](https://linkedin.com/in/ronanrodriguesmg)
-- 📱 **WhatsApp:** (31) 99999-9999
+- 📱 **WhatsApp:** (31) 99596-4202
 - 💻 **GitHub:** [github.com/Ronan-Rodrigues](https://github.com/Ronan-Rodrigues)
 
 ---
